@@ -31,8 +31,8 @@ Bot Telegram canggih dengan AI Groq yang dilengkapi dual API key, dual model, fa
 
 ```bash
 # Clone atau download project
-git clone https://github.com/yourusername/groq-ai-bot.git
-cd groq-ai-bot
+git clone https://github.com/zkece075-cell/asistenaiku
+cd asistenaiku 
 
 # Install dependencies
 npm install
@@ -55,8 +55,8 @@ apt update && apt upgrade
 apt install nodejs
 
 # Clone repository
-git clone https://github.com/yourusername/groq-ai-bot.git
-cd groq-ai-bot
+git clone https://github.com/zkece075-cell/asistenaiku
+cd asistenaiku
 
 # Install dependencies
 npm install
