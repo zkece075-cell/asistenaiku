@@ -35,8 +35,8 @@ const GROQ_API_KEY_2 = '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
 // Model untuk masing-masing API Key.
 // Cek daftar model terbaru di: https://console.groq.com/docs/models
 // (model bisa berubah sewaktu-waktu mengikuti update dari Groq)
-const GROQ_MODEL_1 = 'llama-3.3-70b-versatile';
-const GROQ_MODEL_2 = 'llama-3.1-8b-instant';
+const GROQ_MODEL_1 = 'gemma-7b-it';
+const GROQ_MODEL_2 = 'mixtral-8x7b-32768';
 
 // ================================================================
 //  KONSTANTA LIMIT & PENYIMPANAN
