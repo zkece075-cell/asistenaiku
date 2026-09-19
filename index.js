@@ -29,8 +29,8 @@ const Groq = require('groq-sdk');
 //  Dapatkan gratis di: https://console.groq.com/keys
 //  Ganti string di bawah dengan 2 API key Groq kamu
 // ================================================================
-const GROQ_API_KEY_1 = 'gsk_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'; // <- Ganti ini
-const GROQ_API_KEY_2 = 'gsk_YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY'; // <- Ganti ini juga
+const GROQ_API_KEY_1 = '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'; // <- Ganti ini
+const GROQ_API_KEY_2 = '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'; // <- Ganti ini juga
 
 // Model untuk masing-masing API Key.
 // Cek daftar model terbaru di: https://console.groq.com/docs/models
